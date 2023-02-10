@@ -9,5 +9,3 @@
   <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html" width="45" height="45"/>
   <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="linux" width="45" height="45"/>
 </p>
-
-![Snake animation](https://github.com/fthcknmz/fthcknmz/blob/output/github-contribution-grid-snake.svg)
