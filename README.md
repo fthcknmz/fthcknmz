@@ -1,3 +1,6 @@
+<body>
+<img src="https://media.tenor.com/5NU8u6qKF_AAAAAC/pills-drugs.gif" style="width:445px;height:350px;" alt="Windows Firewall">
+</body>
 <p align="middle">
   <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" alt="vs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
