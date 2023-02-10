@@ -9,6 +9,3 @@
   <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html" width="45" height="45"/>
   <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="linux" width="45" height="45"/>
 </p>
-<p>
-<img src="https://media.tenor.com/5NU8u6qKF_AAAAAC/pills-drugs.gif" style="width:480px;height:480px;" alt="Windows Firewall">
-</p>
