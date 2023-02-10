@@ -1,38 +1,40 @@
-<h3 align="center">
-Hi, I'm <a href="https://www.fthcknmz.dev/" target="_blank" rel="noreferrer">Fethi</a> 👋
-</h3>
 <h2 align="center">
-Electronics and Communication Engineer and Software Developer
+    Electronics and Communication Engineer and Software Developer
 </h2> 
-<h3 align="left">
-    🤝 Connect with me via:
-</h3>
-<a href="https://www.linkedin.com/in/fthcknmz/" target="_blank">
- <img align=”left” src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png"  alt="fthcknmz | LinkedIn" width="40px"/>
-</a>
-<a href="https://www.instagram.com/fethicknmz/" target="_blank">
- <img align=”left” src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png"  alt="fthcknmz | Instagram" width="40px"/>
-</a>
-<a href="https://medium.com/@fethicekinmez" target="_blank">
- <img align=”left” src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png"  alt="fthcknmz | Medium" width="40px"/>
-</a>
-</br>
-- 💬 If you have questions or feedbacks, do not hesitate to reach out to me!
-<h3 align="left">
-    🤝 Programming languages:
-</h3>
-<p align="left">
-  <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" alt="vs" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="c" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="c++" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png" alt="matlab" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html" width="45" height="45"/>
-  <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="linux" width="45" height="45"/>
-</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthcknmz&layout=compact)](https://github.com/fthcknmz)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/fthcknmz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fthcknmz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" align="right" alt=""/>
+</div>
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthcknmz&theme=github-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fthcknmz&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 
