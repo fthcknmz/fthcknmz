@@ -1,13 +1,10 @@
 <p align="middle">
-  <p> 
     Contact with me:
-      <a href="https://www.linkedin.com/in/fthcknmz/" target="_blank">
-    <img align=”left” src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png"  alt="fthcknmz | LinkedIn" width="40px"/>
-  </a>
-  </p>
-
-  
+    <a href="https://www.linkedin.com/in/fthcknmz/" target="_blank">
+      <img align=”left” src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png"  alt="fthcknmz | LinkedIn" width="40px"/>
+    </a>
 </p>
+
 <p align="middle">
   <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" alt="vs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
