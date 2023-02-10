@@ -1,8 +1,11 @@
 <p align="middle">
   <p> 
     Contact with me:
+      <a href="https://www.linkedin.com/in/fthcknmz/" target="_blank">
+    <img align=”left” src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png"  alt="fthcknmz | LinkedIn" width="40px"/>
+  </a>
   </p>
-  <a href="https://www.linkedin.com/in/fthcknmz/" target="_blank"><img align=”left” src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png"  alt="fthcknmz | LinkedIn" width="40px"/></a>
+
   
 </p>
 <p align="middle">
