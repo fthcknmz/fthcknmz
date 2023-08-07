@@ -1,5 +1,5 @@
 <h2 align="center">
-    Electronics and Communication Engineer and Software Developer
+    Electronics and Communication Engineer | Software Developer
 </h2> 
 
 <div id="badges">
