@@ -1,5 +1,6 @@
 <h2 align="center">
-    Electronics and Communication Engineer | Software Developer
+    Fethi Çekinmez
+    <img src="https://komarev.com/ghpvc/?username=fthcknmz&style=flat-square&color=blue" align="right" alt=""/>
 </h2> 
 
 <div id="badges">
@@ -12,7 +13,7 @@
   <a href="mailto:fekinmez@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=fthcknmz&style=flat-square&color=blue" align="right" alt=""/>
+  
 </div>
 
 
